@@ -43,3 +43,8 @@ Olá! Sou a **Ana Luíza Rosa**, estudante de **Engenharia de Software** na Univ
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:9333ea,100:c084fc&height=100&section=footer"/>
 </div>
+
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Analuizza2008&theme=dracula" alt="Contribuições em 3D" />
+</div>
