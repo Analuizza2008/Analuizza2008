@@ -34,26 +34,26 @@
 
 ## ✦ sobre_mim.exe
 
-> **`[ _ ] [ □ ] [ x ]`** &nbsp; `perfil.txt`
+> **`[ _ ] [ □ ] [ x ]`** &nbsp; `Analuizza2008.txt`
 
 Estudante de **Engenharia de Software** com formação técnica em informática e vivência prática no ambiente corporativo. Gosto de transformar ideias em código e estou construindo minha base para atuar em desenvolvimento de software.
 
 | ✧ | |
 |:--|:--|
-| 🎓 **Graduação** | Engenharia de Software — Universidade Católica de Brasília (UCB) |
-| 💾 **Formação técnica** | Técnica em Informática |
-| 🏢 **Atuação atual** | Jovem Aprendiz na Rede Américas |
-| 🎯 **Objetivo** | Estágio em tecnologia e desenvolvimento de software |
+|  **Graduação** | Engenharia de Software — Universidade Católica de Brasília (UCB) |
+|  **Formação técnica** | Técnica em Informática |
+|  **Atuação atual** | Jovem Aprendiz na Rede Américas |
+| **Objetivo** | Estágio em tecnologia e desenvolvimento de software |
 
 <br/>
 
 ## ✦ stack.dll
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode&theme=dark" alt="Tecnologias"/>
+  <img src="https://skillicons.dev/icons?i=html,css,github,vscode,,&theme=dark" alt="Tecnologias"/>
 </div>
 
-<sub><div align="center">⋆｡˚ edite os ícones acima conforme as tecnologias que você usa ˚｡⋆</div></sub>
+<sub><div align="center">⋆｡˚ ˚｡⋆</div></sub>
 
 <br/>
 
